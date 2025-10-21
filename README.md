@@ -131,8 +131,8 @@ Maintained by [Vinilla](https://github.com/VinillaCoffee/CRL-Survey) — last up
 If you find this list useful, please cite:
 
 ```bibtex
-@misc{vinilla2025crl_survey_list,
-  title={Continual Reinforcement Learning: A Curated Paper List (2020–2025)},
+@misc{vinilla2025crl_survey,
+  title={A Comprehensive Survey of Continual Reinforcement Learning: From Online to Offline},
   author={Vinilla},
   year={2025},
   howpublished={\url{https://github.com/VinillaCoffee/CRL-Survey}}
