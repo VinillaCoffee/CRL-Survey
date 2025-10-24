@@ -113,24 +113,19 @@ Maintained by [Vinilla](https://github.com/VinillaCoffee/CRL-Survey) — last up
 | 2025 **ICML(Spotlight)** | [Continual Reinforcement Learning by Planning with Online World Models](https://arxiv.org/abs/2507.09177) |
 | 2025 **arXiv** | [A Continual Offline Reinforcement Learning Benchmark for Navigation Tasks](https://arxiv.org/abs/2506.01234) |
 | 2025 **arXiv** | [MEAL: A Benchmark for Continual Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2506.01235) |
-| 2025 **AISTATS** | [Statistical Guarantees for Lifelong RL using PAC-Bayes (EPIC)](https://arxiv.org/abs/2411.00401) |
 | 2025 **arXiv** | [Rethinking the Foundations for Continual Reinforcement Learning](https://arxiv.org/abs/2504.12345) |
 | 2025 **arXiv** | [Overcoming Non-stationary Dynamics with Evidential PPO (EPPO)](https://arxiv.org/abs/2503.01234) |
-| 2025 **arXiv** | [Lifelong Reinforcement Learning with Similarity-Driven Weighting by Large Models (SDW)](https://arxiv.org/abs/2503.12923) |
+| 2025 **arXiv** | [Lifelong Reinforcement Learning with Similarity-Driven Weighting by Large Models](https://arxiv.org/abs/2503.12923) |
 | 2025 **CoLLA** | [Statistical Context Detection for Deep Lifelong Reinforcement Learning](https://proceedings.mlr.press/v274/luo25a.html) |
-| 2025 **arXiv** | [Deep Transfer Q-Learning for Offline Non-Stationary Finite-Horizon MDPs](https://arxiv.org/abs/2501.01234) |
-| 2024 **arXiv** | [Hierarchical Subspaces of Policies for Continual Offline RL (HiSPO)](https://arxiv.org/abs/2412.01234) |
-| 2024 **NeurIPS** | [Fast TRAC: A Parameter-Free Optimizer for Lifelong RL](https://arxiv.org/abs/2405.16642) |
 | 2024 **ICLR** | [Prevalence of Negative Transfer in Continual RL: Analyses and a Simple Baseline](https://openreview.net/forum?id=CRL1234) |
-| 2024 **arXiv** | [Data-Incremental Continual Offline RL (EREIQL)](https://arxiv.org/abs/2404.12639) |
 | 2024 **arXiv** | [Streaming Deep Reinforcement Learning Finally Works](https://arxiv.org/abs/2410.14606) |
 | 2024 **CoRL** | [Lifelong Autonomous Improvement of Navigation Foundation Models in the Wild](https://arxiv.org/abs/2409.01234) |
 | 2024 **arXiv** | [Reset-free Reinforcement Learning with World Models (MoReFree)](https://arxiv.org/abs/2408.01234) |
 | 2024 **IJCAI** | [Continual Multi-Objective RL via Reward Model Rehearsal (CORe³)](https://www.ijcai.org/proceedings/2024/0130.pdf) |
-| 2024 **NeurIPS** | [Parseval Regularization for Continual RL](https://arxiv.org/abs/2405.12345) |
 
 
-### 🧩 Citation
+
+### Citation
 
 If you find this list useful, please cite:
 
@@ -145,6 +140,6 @@ If you find this list useful, please cite:
 
 ---
 
-🧠 **Maintainer:** Vinilla  
-📅 **Last Updated:** 2025-10-21  
-📍 **Scope:** Continual Reinforcement Learning；Continual Offline Reinforcement Learning；Benchmarks
+**Maintainer:** Vinilla  
+**Last Updated:** 2025-10-21  
+**Scope:** Continual Reinforcement Learning；Continual Offline Reinforcement Learning；Benchmarks
