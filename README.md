@@ -100,10 +100,21 @@ Maintained by [Vinilla](https://github.com/VinillaCoffee/CRL-Survey) — last up
 ---
 
 ## Benchmarks
-| Published | Title | Link |
-|------------|--------|----|
-| 2019 **arXiv** | [Minatar: An atari-inspired testbed for thorough and reproducible reinforcement learning experiments](https://doi.org/10.48550/arXiv.1903.03176) | [github](https://github.com/kenjyoung/MinAtar) |
-
+| Published | Title | Code |
+|---------|--------|----|
+| 2020 **CVPR** | [Continual reinforcement learning in 3d non-stationary environments](https://doi.org/10.48550/arXiv.1905.10112) | [CRL Maze](https://github.com/Pervasive-AI-Lab/crlmaze) |
+| 2020 **ICLR** | [Jelly bean world: A testbed for never-ending learning](https://doi.org/10.48550/arXiv.1903.03176) | [Jelly bean world](https://github.com/eaplatanios/jelly-bean-world) |
+| 2021 **ICLR** | [Continuous coordination as a realistic scenario for lifelong learning](https://doi.org/10.48550/arXiv.1903.03176) | [Lifelong Hanabi](https://github.com/chandar-lab/Lifelong-Hanabi) |
+| 2021 **CoRL** | [Evaluations of the Gap between Supervised and Reinforcement Lifelong Learning on Robotic Manipulation Tasks](https://openreview.net/forum?id=YrRoft_OeKp) | [Lifelong Manipulation](https://github.com/fanyangr/RL_LL_DClaw_Benchmark) |
+| 2022 **arXiv** | [L2explorer: A life-long reinforcement learning assessment environment](https://doi.org/10.48550/arXiv.2203.07454) | [github](https://github.com/lifelong-learning-systems/l2explorer) |
+| 2022 **CoLLA** | [Cora: Benchmarks, baselines, and metrics as a platform for continual reinforcement learning agents](https://proceedings.mlr.press/v199/powers22b.html) | [CORA](https://github.com/AGI-Labs/continual_rl) |
+| 2022 **CoLLA** | [Continual reinforcement learning with tella](https://conf-2022.lifelong-ml.cc/poster_68) | [TELLA](https://github.com/lifelong-learning-systems/tella) |
+| 2023 **NeurIPS** | [Coom: A game benchmark for continual reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d61d9f4fe4357296cb658795fd7999f0-Abstract-Datasets_and_Benchmarks.html) | [COOM](https://github.com/TTomilin/COOM) |
+| 2023 **arXiv** | [The configurable tree graph (ct-graph): measurable problems in      partially observable and distal reward environments for lifelong reinforcement learning](https://doi.org/10.48550/arXiv.2302.10887) | [CT-graph](https://github.com/soltoggio/CT-graph) |
+| 2023 **NeurIPS** | [LIBERO: Benchmarking knowledge transfer for lifelong robot learning](https://openreview.net/forum?id=xzEtNSuDJk) | [LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO) |
+| 2024 **RLC** | [Hackatari: Atari learning environments for robust and continual reinforcement learning](https://openreview.net/forum?id=Th5OOmiHVo) | [HackAtari](https://github.com/k4ntz/HackAtari) |
+| 2025 **COG** | [A continual offline reinforcement learning benchmark for navigation tasks](https://openreview.net/forum?id=Th5OOmiHVo) | [Continual Navbench](https://github.com/anthony-kobanda/continual-nav-bench) |
+| 2025 **EWRL** | [Meal: A benchmark for continual multi-agent reinforcement learning](https://openreview.net/forum?id=XSEBnUZXQA) | [MEAL](https://github.com/ttomilin/meal) |
 ---
 
 ## CRL 2025 Update
